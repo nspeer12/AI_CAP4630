@@ -2,7 +2,7 @@
 
 ## Problems 1 and 2
 
-Problems 1 and 2 are contained in the file hw4.ipynb. Problem 1 is computing convolutions and problem 2 is applying max pooling to a matrix
+Problems 1 and 2 are contained in the file hw4.ipynb. Problem 1 is computing convolutions and problem 2 is applying max pooling to a matrix.
 
 ## Problem 3
 
